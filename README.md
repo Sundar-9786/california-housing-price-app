@@ -1,1 +1,1 @@
-# california-housing-price-app
+# california-housing-streamlit
